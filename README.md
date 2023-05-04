@@ -1,4 +1,4 @@
-# File-System-Analyzer
+# FAT32 File-System-Analyzer 
 
 **Author:** Sami Byaruhanga
 
